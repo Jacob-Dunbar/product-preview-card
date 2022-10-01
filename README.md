@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: ([https://your-solution-url.com](https://www.frontendmentor.io/solutions/product-preview-card-using-css-flexbox-YUH8L59pkc))
-- Live Site URL: ([https://your-live-site-url.com](https://jacob-dunbar.github.io/product-preview-card/))
+- [My Frontend Mentor submision](https://www.frontendmentor.io/solutions/product-preview-card-using-css-flexbox-YUH8L59pkc)
+- [Live site](https://jacob-dunbar.github.io/product-preview-card/)
 
 ## My process
 
