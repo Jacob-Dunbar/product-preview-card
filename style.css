@@ -101,6 +101,11 @@ button {
   outline: none;
   border-radius: 0.4rem;
   cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+button:hover {
+  background-color: #1a3f31;
 }
 
 .button--text {
